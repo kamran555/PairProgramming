@@ -1,0 +1,292 @@
+.main {
+
+	      width: 900px;
+	      height: 1000px;
+	      background-color: red;
+	      margin: 10px auto;
+	      background: url("bg.jpg");
+	      background-size: cover;
+
+	      	      
+}
+
+h6 {
+	    margin-top: 3px;
+    margin-left: 9px;
+	position: absolute;
+	color: white;
+
+}
+
+.middleLeftFirst input{
+
+	margin-top:20px;
+	width: 100px;
+	height: 13px;
+	margin-left:5px;
+	float: left;
+	background-color: #07366b;
+	border: none;
+}
+
+.middleLeftFirst img {
+
+	margin-top:20px;
+	width: 18px;
+	height: 15px;
+	
+	float: left;
+}
+
+
+
+.head {
+
+
+	width: 100%;
+	height: 70px;
+	background-color: #083266;
+
+}
+
+.middle{
+
+	width: 600px;
+	height: 750px;
+	background-color: yellow;
+	margin: 5px auto;
+}
+
+.under {
+
+	width: 100%;
+	height: 100px;
+	background-color: orange;
+	
+}
+
+.footer {
+
+	width: 100%;
+	height: 67px;
+	background-color: black;
+}
+
+.sitename {
+	width: 140px;;
+	height: 70px;
+	margin-left: 150px;
+	background-color: #1491c1;
+	float: left;
+	text-align: center;
+}
+
+.menu {
+
+	width: 460px;
+	height: 70px;
+	background-color: #083266;
+	float: left;
+}
+
+.middleLeft {
+
+	width: 140px;
+	height: 750px;
+	background-color: pink;
+	float: left;
+}
+
+.middleRight {
+
+	width: 460px;
+	height: 750px;
+	background-color: green;
+	float: left;
+}
+
+.underFirst {
+
+	width: 100%;
+	height: 30px;
+	background-color: darkblue;
+	position: relative;
+	
+
+}
+
+.underSecond {
+
+	width: 100%;
+	height: 70px;
+	background-color: green;
+	position: relative;
+}
+
+.cigula{
+	  width: 460px;
+	  height: 200px;
+	  background-color: black;
+
+
+}
+
+.cigulaFirst{
+	  width: 460px;
+	  height: 100px;
+	  background-color: blue;
+
+
+}
+
+.cigulaSecondRight{
+
+	width: 220px;
+	height: 300px;
+	background-color: grey;
+	margin: 5px;
+	float: left;
+}
+
+.cigulaSecondLeft{
+
+	width: 220px;
+	height: 300px;
+	background-color: #9f5959;
+	margin: 5px;
+	float: left;
+}
+
+.cigulaLast {
+
+	width: 460px;
+	height: 135px;
+	background-color: #8f86c1;
+	clear: both;
+	float: left;
+}
+
+.cigulaLastFirst {
+
+	width: 220px;
+	height: 130px;
+	background-color: red;
+	clear: both;
+	float: left;
+	margin: 3px;
+}
+.cigulaLastSecond {
+
+	width: 220px;
+	height: 130px;
+	background-color: #42414a;
+	margin: 3px;
+	
+	float: left;
+}
+
+.middleLeftFirst{
+	width: 140px;
+	height: 50px;
+	background-color: #0e5195;
+
+	
+
+
+}
+.middleLeftSecond{
+	width: 140px;
+	height: 210px;
+	background-color:#07366b;
+
+
+}
+
+.middleLeftThird{
+	width: 140px;
+	height: 210px;
+	background-color:#569fa7;
+
+
+}
+
+.pictFirst{
+
+	width: 217px;
+	height: 180px;
+	background-color:#2b3333;
+}
+
+.pictSecond{
+
+	width: 217px;
+	height: 120px;
+	background-color: #0b2c80;
+}
+
+.underSecondPart{
+   width: 150px;
+   height: 70px;
+   background-color: #800b5b;
+   float: left;
+   margin-left: 110px;
+
+
+}
+
+.sitename h2 {
+
+	color:white;
+}
+
+.menu ul  {
+
+	margin:0px;
+	padding:0px;
+
+	list-style:none;
+
+}
+
+.menu ul li {
+	float: left;
+	margin-left: 5px;
+	margin-right: 15px;
+	font-color: white;
+	height: 70px;
+	border-right: 1px dashed white;
+
+	
+
+}
+
+.menu ul li  a {
+	
+	color: white;
+	text-decoration: none;
+	line-height: 120px;
+	margin-right: 5px;
+
+}
+
+.middleLeftSecond ul  {
+	position: absolute;
+	margin-top: 5px;
+	list-style: none;
+
+}
+
+
+
+.mid {
+
+	position: absolute;
+	color: white;
+	margin: 10px 0px 5px 5px;
+
+}
+
+
+
+
+
